@@ -1,2 +1,2 @@
 # FutureClientLeak
-Attempting to crack Future client Or Die Trying
+Going To Attempt To Crack Future Or Die Trying (And NOT Ratting it)
